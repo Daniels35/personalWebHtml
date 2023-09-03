@@ -69,7 +69,7 @@ const nav = document.querySelector(".nav"),
       document.querySelector(".hire-me").addEventListener("click", function()
       {
           const sectionIndex = this.getAttribute("data-section-index");
-          //console.log(sectionIndex);
+          console.log(sectionIndex);
           showSection(this);
           updateNav(this);
           removeBackSection();
