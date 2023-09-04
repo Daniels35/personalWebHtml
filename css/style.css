@@ -583,6 +583,55 @@ h3.my-profession
     text-align: justify;
     color: var(--text-black-700);
 }
+
+
+.contenedor-tools {
+    margin: 20px 0 20px 0;
+}
+
+.title-contenedor-tools {
+    text-align: center;
+    color: var(--text-black-900);
+    margin: 30px 0 30px 0;
+    font-size: 2.2rem;
+}
+
+.tools-home {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .tool-icon-container {
+    flex: 0 0 calc(25% - 20px);
+    text-align: center;
+    margin: 10px;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .tool-icon-container:hover {
+    cursor: pointer;
+    transform: scale(1.3);
+  }
+  
+  .tool-icon-container i {
+    font-size: 36px;
+    color: var(--skin-color);
+  }
+
+  .tool-icon-container:hover .icon-wrapper {
+    transform: rotate(360deg);
+    transition: transform 1s;
+  }
+  
+  .tool-icon-container h5 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: var(--text-black-700);
+  }
+  
+  
 /* service */
 .service .container
 {
@@ -968,7 +1017,7 @@ h3.my-profession
     left: 30px;
     z-index: 9999;
     padding: 10px;
-    background-color: #25d366;
+    background-color: var(--skin-color);
     color: #fff;
     font-size: 16px;
     text-decoration: none;
