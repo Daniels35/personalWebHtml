@@ -584,7 +584,6 @@ h3.my-profession
     color: var(--text-black-700);
 }
 
-
 .contenedor-tools {
     margin: 20px 0 20px 0;
 }
@@ -720,7 +719,7 @@ h3.my-profession
 }
 .portfolio .portfolio-item-inner
 {
-    border: 6px solid var(--bg-black-100);
+    border: 2px solid white;
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
