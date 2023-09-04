@@ -822,7 +822,8 @@ h3.my-profession
 
 .row-contact {
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
+    margin: 0 45px 0 45px;
 }
 @media (max-width:1199px)
 {
