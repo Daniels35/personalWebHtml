@@ -757,7 +757,7 @@ h3.my-profession
 }
 .contact .contact-info-item .icon .fa
 {
-    font-size: 25px;
+    font-size: 35px;
     color: var(--skin-color);
 }
 .contact .contact-info-item h4
@@ -818,6 +818,11 @@ h3.my-profession
 {
     height: 50px;
     padding: 0 50px;
+}
+
+.row-contact {
+    display: flex;
+    justify-content: center;
 }
 @media (max-width:1199px)
 {
