@@ -1051,7 +1051,7 @@ h3.my-profession
 }
 
 .square-container:hover .hover-info-portafolio {
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.85);
     opacity: 1;
 }
 
@@ -1094,17 +1094,33 @@ h3.my-profession
     width: 100%;
     height: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background: rgba(0, 0, 0, 0);
     opacity: 0; 
+    color: white;
     transition: background 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 
+.hover-info-portafolio-body h4 {
+   text-decoration: underline; 
+}
+
 .hover-info-portafolio h1 {
-    color: white;
     font-size: 24px;
     text-align: center;
+}
+
+.hover-info-portafolio-body-ul {
+    display: flex;
+    flex-direction: row;
+    font-size: 13px;
+}
+
+.container-list-alternative-portafolio {
+    margin-right: 40px;
+    margin-left: -20px;
 }
 
 @keyframes borderAnimation {
