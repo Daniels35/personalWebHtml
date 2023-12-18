@@ -1,0 +1,26 @@
+{
+    "es": {
+        "titleColor": "Colores del tema",
+        "titleLanguage": "Idioma",
+        "togglerHome": " Inicio",
+        "togglerPortfolio": " Portafolio",
+        "togglerAbout": " Sobre mí",
+        "togglerContact": " Contacto",
+        "inicioName": "Hola, mi nombre es",
+        "inicioIam": "Soy un",
+        "inicioPresentation": "Soy un desarrollador web junior Full Stack que utiliza herramientas de programación de vanguardia para desarrollar soluciones para una variedad de aplicaciones, incluidos sitios web y aplicaciones móviles. Mis habilidades me permiten crear sitios web visualmente atractivos, fáciles de usar, accesibles e innovadores...",
+        "inicioDownloadCV": "Descargar CV"
+    },
+    "en": {
+        "titleColor": "Theme Colors",
+        "titleLanguage": "Language",
+        "togglerHome": " Home",
+        "togglerPortfolio": " Portfolio",
+        "togglerAbout": " About",
+        "togglerContact": " Contact",
+        "inicioName": "Hello, my name is",
+        "inicioIam": "I' m a",
+        "inicioPresentation": "I am a junior Full Stack Web Developer who utilizes cutting-edge programming tools to develop solutions for a variety of applications, including websites and mobile apps. My skills enable me to create visually appealing, easy-to-use, accessible, and innovative websites...",
+        "inicioDownloadCV": "Download CV"
+    }
+}

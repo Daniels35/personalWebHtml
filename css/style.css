@@ -285,6 +285,10 @@ ul
     margin-bottom: 20px;
     display: block;
 }
+.aside .nav li i {
+    font-size: 16px;
+    font-weight: 600;
+}
 .aside .nav li a
 {
     font-size: 16px;
@@ -331,18 +335,31 @@ h3.hello
     font-size: 28px;
     margin: 15px 0;
 }
-h3.hello span
+.name-inicio-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.name-inicio-container span
 {
     font-family: 'Clicker Script' , cursive;
     font-size: 40px;
     font-weight: bolder;
     color: var(--skin-color);
+    margin-left: 10px;
 }
-h3.my-profession
-{
-    font-size: 30px;
-    margin: 15px 0;
+
+.my-profesion-language {
+    font-size: 25px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
+.my-profesion-language span {
+    margin-left: 10px;
+}
+
 .typing
 {
     color: var(--skin-color);
@@ -951,7 +968,7 @@ h3.my-profession
     }
 
     .style-switcher{
-        top: 80% !important;  
+        top: 60% !important;  
     }
     .section {
         padding: 0 50px !important;
@@ -962,9 +979,8 @@ h3.my-profession
     .timeline-text{
         margin-right: 10px;
     }
-    .my-profession{
-        height: 90px;
-        margin-top: 2rem;
+    .my-profesion-language{
+        height: 130px;
     }
   }
   
@@ -1127,5 +1143,21 @@ h3.my-profession
     }
     100% {
         transform: rotate(360deg);
+    }
+}
+
+@media (max-width:570px) {
+    .name-inicio-container{
+        flex-direction: column;
+    }
+    .my-profesion-language {
+        flex-direction: column;
+    }
+    .typing {
+        margin-top: 10px;
+    }
+
+    .style-switcher{
+        top: 75% !important;  
     }
 }

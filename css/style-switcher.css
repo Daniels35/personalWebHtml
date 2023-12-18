@@ -57,6 +57,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-bottom: 10px;
 }
 .style-switcher .colors span
 {
@@ -65,6 +66,25 @@
     width: 30px;
     border-radius: 50%;
     cursor: pointer;
+}
+
+.languageH4 {
+    margin-top: 30px;
+}
+.style-switcher .language {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.style-switcher .language button {
+    cursor: pointer;
+    background: none;
+    padding: 5px;
+    border-radius: 10px;
+    border-color: var(--skin-color);
+    color: var(--text-black-900);
+    font-weight: 600;
+    user-select: none;
 }
 .style-switcher .color-1
 {

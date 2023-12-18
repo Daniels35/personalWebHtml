@@ -90,7 +90,7 @@ const nav = document.querySelector(".nav"),
                     allSection[i].classList.toggle("open");
                 }
             }
-//enviar correos
+//Send Email
             const sendButton = document.querySelector('#sendM');
 
             sendButton.addEventListener('click', (e) => {
@@ -132,4 +132,26 @@ const nav = document.querySelector(".nav"),
               });
               
             });
-            
+         
+////Change Language
+    $(document).ready(function(){
+      let savedLang = localStorage.getItem('lang');
+      let browserLang = navigator.language || navigator.userLanguage;
+      let defaultLang = savedLang || browserLang.split('-')[0] || 'en';
+
+      $.getJSON('js/lang.json', function(json){
+        localStorage.setItem('lang', defaultLang);
+        updateLanguage(defaultLang, json);
+        $('.translate').click(function(){
+          let lang = $(this).attr("id");
+          updateLanguage(lang, json);
+          localStorage.setItem('lang', lang);
+        });
+      });
+    });
+
+    function updateLanguage(lang, json){
+      $('.lang').each(function(index, value){
+        $(this).text(json[lang][$(this).attr('key')]);
+      });
+    }

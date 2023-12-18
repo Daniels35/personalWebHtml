@@ -21,6 +21,10 @@
   <link rel="stylesheet" href="css/skins/color-4.css" class="alternate-style" title="color-4" disabled>
   <link rel="stylesheet" href="css/skins/color-5.css" class="alternate-style" title="color-5" disabled>
   <link rel="stylesheet" href="css/style-switcher.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-218475314-1"></script>
   <script>
@@ -43,11 +47,12 @@
       </div>
       <div>
         <ul class="nav">
-          <li><a href="#home" class="active"><i class="fa fa-home"></i> Home</a></li>
+          <!-- MEJORAR DESPUES -->
+          <li><a href="#home" class="active"><i class="fa fa-home active lang" key='togglerHome'></i></a></li>
           <!-- <li><a href="#services"><i class="fa fa-list"></i>Services</a></li> -->
-          <li><a href="#portfolio"><i class="fa fa-briefcase"></i>Portfolio</a></li>
-          <li><a href="#about"><i class="fa fa-user"></i> About</a></li>
-        <li><a href="#contact"><i class="fa fa-comments"></i>Contact</a></li>
+          <li><a href="#portfolio"><i class="fa fa-briefcase lang" key='togglerPortfolio'></i></a></li>
+          <li><a href="#about"><i class="fa fa-user lang" key='togglerAbout'></i></a></li>
+        <li><a href="#contact"><i class="fa fa-comments lang" key='togglerContact'></i></a></li>
       </ul>
       <div class="networks">
         <a href="https://github.com/Daniels35" target="_blank"><i class="fab fa-github"></i></a>
@@ -64,10 +69,17 @@
         <div class="container">
           <div class="row">
             <div class="home-info padd-15">
-              <h3 class="hello">Hello, my name is <span class="name">Daniel Stiven Diaz</span></h3>
-              <h3 class="my-profession">I' m a <span class="typing"></span></h3>
-              <p>I am a junior Full Stack Web Developer who utilizes cutting-edge programming tools to develop solutions for a range of applications, including websites and mobile apps. My skills allow me to create designs that are not only visually appealing but also user-friendly, accessible, and functional....</p>
-              <a href="https://drive.google.com/file/d/1UP2Cfh7jCic7QItistWS7S6S9smhe_L6/view" target="_blank" class="btn">Download CV</a>
+              <!-- MEJORAR DESPUES   -->
+              <div class="name-inicio-container">
+                <h3 class="hello lang" key="inicioName"> </h3>
+                <span class="name">Daniel Stiven Diaz</span>
+              </div>
+              <div class="my-profesion-language">
+                <h3 class="my-profession lang" key="inicioIam"></h3>
+                <span class="typing"></span>
+              </div>
+              <p class="lang" key="inicioPresentation"></p>
+              <a href="https://drive.google.com/file/d/1UP2Cfh7jCic7QItistWS7S6S9smhe_L6/view" target="_blank" class="btn lang" key="inicioDownloadCV"></a>
             </div>
             <div class="home-img padd-15">
               <img src="images/hero.jpg" alt="Daniel Diaz" class="daniel" oncontextmenu="return false;" ondragstart="return false;">
@@ -664,7 +676,7 @@
     <div class="day-night s-icon">
       <i class="fas "></i>
     </div>
-    <h4>Theme Colors</h4>
+    <h4 class="lang" key="titleColor"></h4>
     <div class="colors">
       <span class="color-1" onclick="setActiveStyle('color-1')"></span>
       <span class="color-2" onclick="setActiveStyle('color-2')"></span>
@@ -672,6 +684,12 @@
       <span class="color-4" onclick="setActiveStyle('color-4')"></span>
       <span class="color-5" onclick="setActiveStyle('color-5')"></span>
     </div>
+    <h4 class="lang" key="titleLanguage"></h4>
+    <div class="language">
+      <button class="translate" id="es">ES</button>
+      <button class="translate" id="en">EN</button>
+    </div>
+
   </div>
   <!-- ===== Style Switcher End ===== -->
   <!-- ===== JS Files ===== -->
