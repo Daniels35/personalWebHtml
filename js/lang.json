@@ -9,7 +9,20 @@
         "inicioName": "Hola, mi nombre es",
         "inicioIam": "Soy un",
         "inicioPresentation": "Soy un desarrollador web junior Full Stack que utiliza herramientas de programación de vanguardia para desarrollar soluciones para una variedad de aplicaciones, incluidos sitios web y aplicaciones móviles. Mis habilidades me permiten crear sitios web visualmente atractivos, fáciles de usar, accesibles e innovadores...",
-        "inicioDownloadCV": "Descargar CV"
+        "inicioDownloadCV": "Descargar CV",
+        "PortfolioLastProjects": "Mis últimos proyectos :",
+        "PortfolioTechnologies": "Tecnologías",
+        "AboutMe": "Sobre mí",
+        "aboutDescription": "Soy un desarrollador web Full Stack junior con experiencia en estudios en Oracle y Henry, donde adquirí conocimientos en programación, diseño web y lógica de programación. Tengo habilidades avanzadas en HTML, CSS, JavaScript, Node, MySQL y React, he trabajado con varios frameworks y bibliotecas de front-end. En Platzi, desarrollé un sólido entendimiento del marketing digital, con un enfoque en SEO, publicidad en redes sociales, marketing por correo electrónico y estrategias de contenido. Utilizo herramientas como Google Analytics para mejorar el rendimiento de las campañas. Además, mi educación tradicional en Gestión de Mercados y Ventas en el SENA me equipó con las habilidades para crear planes de marketing exitosos, analizar mercados, comprender el comportamiento del consumidor y gestionar la publicidad. Con mi conjunto diverso de habilidades y experiencia, soy un desarrollador Full Stack versátil que puede abordar con confianza cualquier desafío y colaborar eficazmente en un equipo."
+
+
+
+
+
+
+
+
+
     },
     "en": {
         "titleColor": "Theme Colors",
@@ -21,6 +34,14 @@
         "inicioName": "Hello, my name is",
         "inicioIam": "I' m a",
         "inicioPresentation": "I am a junior Full Stack Web Developer who utilizes cutting-edge programming tools to develop solutions for a variety of applications, including websites and mobile apps. My skills enable me to create visually appealing, easy-to-use, accessible, and innovative websites...",
-        "inicioDownloadCV": "Download CV"
+        "inicioDownloadCV": "Download CV",
+        "PortfolioLastProjects": "My Last Projects :",
+        "PortfolioTechnologies": "Technologies",
+        "AboutMe": "About Me",
+        "aboutDescription": "I am a junior Full Stack Web Developer with experience studying at Oracle and Henry, where I gained knowledge in programming, web design, and programming logic. I have advanced skills in HTML, CSS, JavaScript, Node, MySQL, and React; I have worked with various front-end frameworks and libraries. At Platzi, I developed a solid understanding of digital marketing, with a focus on SEO, social media advertising, email marketing, and content strategies. I use tools like Google Analytics to improve campaign performance. Additionally, my traditional education in Market and Sales Management at SENA equipped me with the skills to create successful marketing plans, analyze markets, understand consumer behavior, and manage advertising. With my diverse skill set and experience, I am a versatile Full Stack developer who can confidently tackle any challenge and collaborate effectively within a team."
+
+
+
+
     }
 }

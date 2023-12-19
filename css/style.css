@@ -423,9 +423,15 @@ h3.hello
     font-weight: 700;
     color: var(--text-black-900);
 }
-.about .about-content .about-text h3 span
+.about-container-Iam {
+    display: flex;
+    white-space: pre-wrap;
+}
+.about-container-Iam-span
 {
     color: var(--skin-color);
+    font-size: 24px;
+    font-weight: 700;
 }
 .about .about-content .about-text p
 {
