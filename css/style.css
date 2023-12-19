@@ -450,6 +450,7 @@ h3.hello
     flex: 0 0 50%;
     max-width: 50%;
 }
+
 .about .about-content .personal-info .info-item p
 {
     font-weight: 600;
@@ -1165,5 +1166,8 @@ h3.hello
 
     .style-switcher{
         top: 75% !important;  
+    }
+    .about .about-content .personal-info .info-item p {
+        min-height: 70px;
     }
 }

@@ -13,15 +13,25 @@
         "PortfolioLastProjects": "Mis últimos proyectos :",
         "PortfolioTechnologies": "Tecnologías",
         "AboutMe": "Sobre mí",
-        "aboutDescription": "Soy un desarrollador web Full Stack junior con experiencia en estudios en Oracle y Henry, donde adquirí conocimientos en programación, diseño web y lógica de programación. Tengo habilidades avanzadas en HTML, CSS, JavaScript, Node, MySQL y React, he trabajado con varios frameworks y bibliotecas de front-end. En Platzi, desarrollé un sólido entendimiento del marketing digital, con un enfoque en SEO, publicidad en redes sociales, marketing por correo electrónico y estrategias de contenido. Utilizo herramientas como Google Analytics para mejorar el rendimiento de las campañas. Además, mi educación tradicional en Gestión de Mercados y Ventas en el SENA me equipó con las habilidades para crear planes de marketing exitosos, analizar mercados, comprender el comportamiento del consumidor y gestionar la publicidad. Con mi conjunto diverso de habilidades y experiencia, soy un desarrollador Full Stack versátil que puede abordar con confianza cualquier desafío y colaborar eficazmente en un equipo."
+        "aboutDescription": "Soy un desarrollador web Full Stack junior con experiencia en estudios en Oracle y Henry, donde adquirí conocimientos en programación, diseño web y lógica de programación. Tengo habilidades avanzadas en HTML, CSS, JavaScript, Node, MySQL y React, he trabajado con varios frameworks y bibliotecas de front-end. En Platzi, desarrollé un sólido entendimiento del marketing digital, con un enfoque en SEO, publicidad en redes sociales, marketing por correo electrónico y estrategias de contenido. Utilizo herramientas como Google Analytics para mejorar el rendimiento de las campañas. Además, mi educación tradicional en Gestión de Mercados y Ventas en el SENA me equipó con las habilidades para crear planes de marketing exitosos, analizar mercados, comprender el comportamiento del consumidor y gestionar la publicidad. Con mi conjunto diverso de habilidades y experiencia, soy un desarrollador Full Stack versátil que puede abordar con confianza cualquier desafío y colaborar eficazmente en un equipo.",
+        "aboutBirthday": "Cumpleaños : 6 Abril",
+        "aboutPhone": "Teléfono : +57 313 580 44 24",
+        "aboutCity": "Ciudad : Medellín",
+        "aboutFreelancer": "Freelancer : Disponible",
+        "aboutHireMe": "Contrátame",
+        "aboutKnowledge&Methodology": "Conocimiento y Metodología",
+        "aboutEducation": "Educación",
+        "aboutEducationIconOracle": " Abril de 2023 - Octubre de 2023",
+        "aboutEducationTitleOracle": "Desarrollador Backend - Oracle",
+        "aboutEducationTextOracle": "Durante mi tiempo de estudio en Oracle, tuve la oportunidad de trabajar en varios proyectos interesantes que me permitieron ampliar mis conocimientos en programación backend y mejorar mi lógica de programación. Mejoré mis habilidades en JavaScript, SQL y aprendí a trabajar con JAVA mediante la creación de diversos proyectos.",
 
+        "aboutEducationIconHenry": " Diciembre de 2022 - julio de 2023",
+        "aboutEducationTitleHenry": "Desarrollador Full Stack",
+        "aboutEducationTextHenry": "Mi experiencia en Henry me permitió adquirir habilidades valiosas en la creación de aplicaciones web atractivas y funcionales. Durante mi tiempo allí, desarrollé proyectos de programación que me permitieron mejorar mi lógica y habilidades en HTML, CSS, JavaScript, Node y React. También aprendí a trabajar en equipo y colaborar en proyectos con otros desarrolladores.",
 
-
-
-
-
-
-
+        "aboutEducationIconPlatzi": " Julio de 2022 - diciembre de 2022",
+        "aboutEducationTitlePlatzi": "Marketing Digital",
+        "aboutEducationTextPlatzi": "Durante mi tiempo en Platzi, adquirí habilidades valiosas en marketing digital, incluyendo SEO, publicidad en redes sociales, marketing por correo electrónico y estrategias de contenido. Además, aprendí a utilizar herramientas como Google Analytics y META para medir y mejorar el rendimiento de mis campañas. Gracias a esta experiencia, desarrollé habilidades importantes que me han ayudado a comprender mejor la interacción entre el marketing y el desarrollo web."
 
     },
     "en": {
@@ -38,10 +48,26 @@
         "PortfolioLastProjects": "My Last Projects :",
         "PortfolioTechnologies": "Technologies",
         "AboutMe": "About Me",
-        "aboutDescription": "I am a junior Full Stack Web Developer with experience studying at Oracle and Henry, where I gained knowledge in programming, web design, and programming logic. I have advanced skills in HTML, CSS, JavaScript, Node, MySQL, and React; I have worked with various front-end frameworks and libraries. At Platzi, I developed a solid understanding of digital marketing, with a focus on SEO, social media advertising, email marketing, and content strategies. I use tools like Google Analytics to improve campaign performance. Additionally, my traditional education in Market and Sales Management at SENA equipped me with the skills to create successful marketing plans, analyze markets, understand consumer behavior, and manage advertising. With my diverse skill set and experience, I am a versatile Full Stack developer who can confidently tackle any challenge and collaborate effectively within a team."
+        "aboutDescription": "I am a junior Full Stack Web Developer with experience studying at Oracle and Henry, where I gained knowledge in programming, web design, and programming logic. I have advanced skills in HTML, CSS, JavaScript, Node, MySQL, and React; I have worked with various front-end frameworks and libraries. At Platzi, I developed a solid understanding of digital marketing, with a focus on SEO, social media advertising, email marketing, and content strategies. I use tools like Google Analytics to improve campaign performance. Additionally, my traditional education in Market and Sales Management at SENA equipped me with the skills to create successful marketing plans, analyze markets, understand consumer behavior, and manage advertising. With my diverse skill set and experience, I am a versatile Full Stack developer who can confidently tackle any challenge and collaborate effectively within a team.",
+        "aboutBirthday": "Birthday : 6 April",
+        "aboutPhone": "Phone : +57 313 580 44 24",
+        "aboutCity": "City : Medellín",
+        "aboutFreelancer": "Freelancer : Available",
+        "aboutHireMe": "Hire Me",
+        "aboutKnowledge&Methodology": "Knowledge & Methodology",
+        "aboutEducation": "Education",
+        
+        "aboutEducationIconOracle": " April 2023 - October 2023",
+        "aboutEducationTitleOracle": "Backend Developer - Oracle",
+        "aboutEducationTextOracle": "During my time studying at Oracle, I had the opportunity to work on several interesting projects that allowed me to expand my knowledge in backend programming and programming logic improvement. I enhanced my skills in JavaScript, SQL, and learned to work with JAVA by creating various projects.",
 
+        "aboutEducationIconHenry": " December 2022 - July 2023",
+        "aboutEducationTitleHenry": "Full Stack Developer",
+        "aboutEducationTextHenry": "My experience at Henry allowed me to acquire valuable skills in creating attractive and functional web applications. During my time there, I developed programming projects that allowed me to improve my logic and skills in HTML, CSS, JavaScript, Node, and React. I also learned how to work in a team and collaborate on projects with other developers.",
 
-
+        "aboutEducationIconPlatzi": " July 2022 - December 2022",
+        "aboutEducationTitlePlatzi": "Digital Marketing",
+        "aboutEducationTextPlatzi": "During my time at Platzi, I acquired valuable skills in digital marketing, including SEO, social media advertising, email marketing, and content strategies. Additionally, I learned to use tools such as Google Analytics and META to measure and improve the performance of my campaigns. Thanks to this experience, I was able to develop valuable skills that have helped me better understand the interaction between marketing and web development."
 
     }
 }
