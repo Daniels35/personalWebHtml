@@ -41,7 +41,15 @@
 
         "aboutEducationIconSenaSales": " Abril de 2018 - abril de 2019",
         "aboutEducationTitleSenaSales": "Ventas de productos y servicios - SENA",
-        "aboutEducationTextSenaSales": "Durante este período, fui representante de ventas para una empresa que ofrecía productos y servicios a clientes. Me encargaba de identificar posibles clientes, presentar los productos y servicios, y cerrar acuerdos. A través de esta experiencia, desarrollé habilidades sólidas de comunicación y negociación, así como la capacidad de trabajar bajo presión y alcanzar objetivos de ventas. También obtuve una mejor comprensión del proceso de ventas y la importancia de construir relaciones a largo plazo con los clientes."
+        "aboutEducationTextSenaSales": "Durante este período, fui representante de ventas para una empresa que ofrecía productos y servicios a clientes. Me encargaba de identificar posibles clientes, presentar los productos y servicios, y cerrar acuerdos. A través de esta experiencia, desarrollé habilidades sólidas de comunicación y negociación, así como la capacidad de trabajar bajo presión y alcanzar objetivos de ventas. También obtuve una mejor comprensión del proceso de ventas y la importancia de construir relaciones a largo plazo con los clientes.",
+
+        "contactMe": "Contacto",
+        "contactHave": "¿Tienes alguna pregunta?",
+        "contactService": "Estoy a su servicio",
+        "contactWrite": "Escíbeme al WhatsApp",
+        "contactEmail": "Correo Electrónico",
+        "contactSend": "Envíame un Mensaje",
+        "contactSend2": "ENVIAR"
 
 
     },
@@ -88,7 +96,23 @@
 
         "aboutEducationIconSenaSales": " April 2018 - April 2019",
         "aboutEducationTitleSenaSales": "Sales of products and services - SENA",
-        "aboutEducationTextSenaSales": "During this period, I was a sales representative for a company that offered products and services to customers. I was responsible for identifying potential clients, presenting the products and services and closing deals. Through this experience, I developed strong communication and negotiation skills, as well as the ability to work under pressure and meet sales targets. I also gained a better understanding of the sales process and the importance of building long-term relationships with clients."
+        "aboutEducationTextSenaSales": "During this period, I was a sales representative for a company that offered products and services to customers. I was responsible for identifying potential clients, presenting the products and services and closing deals. Through this experience, I developed strong communication and negotiation skills, as well as the ability to work under pressure and meet sales targets. I also gained a better understanding of the sales process and the importance of building long-term relationships with clients.",
+
+        "contactMe": "Contact Me",
+        "contactHave": "Have You Any Questions ?",
+        "contactService": "I'M AT YOUR SERVICES",
+        "contactWrite": "Write me on WhatsApp",
+        "contactEmail": "Email",
+        "contactSend": "SEND ME AN EMAIL",
+        "contactSend2": "SEND"
+
+
+
+
+
+
+
+
 
 
     }
