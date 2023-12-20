@@ -31,7 +31,18 @@
 
         "aboutEducationIconPlatzi": " Julio de 2022 - diciembre de 2022",
         "aboutEducationTitlePlatzi": "Marketing Digital",
-        "aboutEducationTextPlatzi": "Durante mi tiempo en Platzi, adquirí habilidades valiosas en marketing digital, incluyendo SEO, publicidad en redes sociales, marketing por correo electrónico y estrategias de contenido. Además, aprendí a utilizar herramientas como Google Analytics y META para medir y mejorar el rendimiento de mis campañas. Gracias a esta experiencia, desarrollé habilidades importantes que me han ayudado a comprender mejor la interacción entre el marketing y el desarrollo web."
+        "aboutEducationTextPlatzi": "Durante mi tiempo en Platzi, adquirí habilidades valiosas en marketing digital, incluyendo SEO, publicidad en redes sociales, marketing por correo electrónico y estrategias de contenido. Además, aprendí a utilizar herramientas como Google Analytics y META para medir y mejorar el rendimiento de mis campañas. Gracias a esta experiencia, desarrollé habilidades importantes que me han ayudado a comprender mejor la interacción entre el marketing y el desarrollo web.",
+
+        "aboutTraditionalEducation": "Educación Tradicional",
+
+        "aboutEducationIconSenaMarketing": " Julio de 2019 - mayo de 2022",
+        "aboutEducationTitleSenaMarketing": "Gestión de Mercados - SENA",
+        "aboutEducationTextSenaMarketing": "Durante mi tiempo en el SENA, aprendí sobre estrategias de marketing, análisis de mercado, comportamiento del consumidor, publicidad y gestión de ventas. El programa me permitió obtener experiencia práctica en la creación e implementación de planes de marketing para negocios reales. También mejoré mis habilidades de comunicación y trabajo en equipo a través de proyectos grupales y presentaciones.",
+
+        "aboutEducationIconSenaSales": " Abril de 2018 - abril de 2019",
+        "aboutEducationTitleSenaSales": "Ventas de productos y servicios - SENA",
+        "aboutEducationTextSenaSales": "Durante este período, fui representante de ventas para una empresa que ofrecía productos y servicios a clientes. Me encargaba de identificar posibles clientes, presentar los productos y servicios, y cerrar acuerdos. A través de esta experiencia, desarrollé habilidades sólidas de comunicación y negociación, así como la capacidad de trabajar bajo presión y alcanzar objetivos de ventas. También obtuve una mejor comprensión del proceso de ventas y la importancia de construir relaciones a largo plazo con los clientes."
+
 
     },
     "en": {
@@ -67,7 +78,18 @@
 
         "aboutEducationIconPlatzi": " July 2022 - December 2022",
         "aboutEducationTitlePlatzi": "Digital Marketing",
-        "aboutEducationTextPlatzi": "During my time at Platzi, I acquired valuable skills in digital marketing, including SEO, social media advertising, email marketing, and content strategies. Additionally, I learned to use tools such as Google Analytics and META to measure and improve the performance of my campaigns. Thanks to this experience, I was able to develop valuable skills that have helped me better understand the interaction between marketing and web development."
+        "aboutEducationTextPlatzi": "During my time at Platzi, I acquired valuable skills in digital marketing, including SEO, social media advertising, email marketing, and content strategies. Additionally, I learned to use tools such as Google Analytics and META to measure and improve the performance of my campaigns. Thanks to this experience, I was able to develop valuable skills that have helped me better understand the interaction between marketing and web development.",
+
+        "aboutTraditionalEducation": "Traditional Education",
+
+        "aboutEducationIconSenaMarketing": " July 2019 - May 2022",
+        "aboutEducationTitleSenaMarketing": "Marketing Management - SENA",
+        "aboutEducationTextSenaMarketing": "During my time at SENA, I learned about marketing strategies, market analysis, consumer behavior, advertising, and sales management. The program allowed me to gain hands-on experience in creating and implementing marketing plans for real businesses. I also improved my communication and teamwork skills through group projects and presentations.",
+
+        "aboutEducationIconSenaSales": " April 2018 - April 2019",
+        "aboutEducationTitleSenaSales": "Sales of products and services - SENA",
+        "aboutEducationTextSenaSales": "During this period, I was a sales representative for a company that offered products and services to customers. I was responsible for identifying potential clients, presenting the products and services and closing deals. Through this experience, I developed strong communication and negotiation skills, as well as the ability to work under pressure and meet sales targets. I also gained a better understanding of the sales process and the importance of building long-term relationships with clients."
+
 
     }
 }
