@@ -356,6 +356,13 @@ h3.hello
     flex-direction: row;
     align-items: center;
 }
+.my-profesion-language-typing {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+}
 .my-profesion-language span {
     margin-left: 10px;
 }
