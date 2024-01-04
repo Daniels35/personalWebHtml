@@ -31,8 +31,6 @@ setActiveStyle(defaultColor);
 /* ========================== theme light and dark mode =========================== */
 const dayNight = document.querySelector(".day-night");
 
-const currentMode = localStorage.getItem('themeMode');
-
 function toggleMode() {
   document.body.classList.toggle("dark");
 
@@ -48,12 +46,28 @@ function toggleMode() {
   localStorage.setItem('themeMode', currentMode);
 }
 
+function checkSystemColorScheme() {
+  const prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  if (prefersDarkMode) {
+    document.body.classList.add("dark");
+    dayNight.querySelector("i").classList.add("fa-sun");
+  } else {
+    document.body.classList.remove("dark");
+    dayNight.querySelector("i").classList.add("fa-moon");
+  }
+}
+
+dayNight.addEventListener("click", toggleMode);
+
 window.addEventListener("load", () => {
+  const currentMode = localStorage.getItem('themeMode');
+
   if (currentMode === 'dark') {
     toggleMode();
   } else {
-    dayNight.querySelector("i").classList.add("fa-moon");
+    checkSystemColorScheme();
   }
 });
 
-dayNight.addEventListener("click", toggleMode);
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', checkSystemColorScheme);
