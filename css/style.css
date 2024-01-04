@@ -1178,3 +1178,8 @@ h3.hello
         min-height: 70px;
     }
 }
+
+.square-image {
+    filter: brightness(var(--brightness, 100%)); 
+  }
+  
