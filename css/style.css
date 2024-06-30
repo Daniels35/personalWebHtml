@@ -15,7 +15,7 @@ body.dark {
     --text-black-700: #e9e9e9;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1199px) {
     body.dark {
         --bg-black-100: #222222;
     }
@@ -331,7 +331,7 @@ ul
 .home
 {
     min-height: 100vh;
-    display: flex;
+    display: none;
     color: var(--text-black-900);
 }
 .home .home-info
